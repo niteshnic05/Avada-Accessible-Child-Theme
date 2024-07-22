@@ -1,8 +1,6 @@
-# Avada-Accessible-Child-Theme
-Accessible Child theme for Avada theme - Wordpress
 # Avada Accessible Child Theme
 
-This child theme enhances the accessibility features of the Avada theme by introducing custom options to improve focus outlines and external link accessibility. It aims to provide a more inclusive web experience for users who rely on keyboard navigation and screen readers.
+This child theme enhances the accessibility features of the Avada Wordpress theme by introducing custom options to improve focus outlines and external link accessibility. It aims to provide a more inclusive web experience for users who rely on keyboard navigation and screen readers.
 
 ## Features
 
@@ -10,18 +8,23 @@ This child theme enhances the accessibility features of the Avada theme by intro
 
 1. **Focus Outline Style**
    - **Description:** Customize the style of the focus outline for better visibility.
-   - **Options:** Solid, Dashed, Dotted
+   - **Options:** Solid, Dashed, Dotted, Double, None
    - **Default:** Solid
 
-2. **Outline Width**
+2. **Focus Outline Width**
    - **Description:** Set the width of the focus outline in pixels.
    - **Input:** Text field (numeric values in px)
    - **Default:** 2px
 
-3. **Outline Color**
+3. **Focus Outline Color**
    - **Description:** Select the color of the focus outline.
    - **Input:** Color picker
    - **Default:** #000000 (Black)
+     
+4. **Focus Outline Offset**
+   - **Description:** Enter the offset of the outline in pixels.
+   - **Input:** Text field (numeric values in px)
+   - **Default:** 1px
 
 4. **Focus Trigger**
    - **Description:** Choose whether to enable focus outlines only for keyboard navigation or for both mouse clicks and keyboard navigation.
@@ -58,7 +61,7 @@ This child theme enhances the accessibility features of the Avada theme by intro
 ## Usage
 
 1. **Customize Accessibility Options**
-   - Navigate to Avada > Theme Options > Custom Accessibility Options.
+   - Navigate to Avada > Theme Options > Accessibility Options.
    - Configure the focus outline styles and external link accessibility settings as per your requirements.
 
 2. **Focus Outline Customization**
