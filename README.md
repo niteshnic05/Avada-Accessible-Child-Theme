@@ -54,7 +54,8 @@ This child theme enhances the accessibility features of the Avada Wordpress them
 2. Open modal pop-up using Space key
 3. Return focus to to the element that invoked the dialog
 4. Fixed: modal pop-up scroll to top issue for mobile devices
-   **Note:** These all above modal pop-up accessbility doesn't require any configuration from Theme option, its auto enable after enable this child theme.
+   
+**Note:** These all above modal pop-up accessbility doesn't require any configuration from Theme option, its auto enable after enable this child theme.
 
 ## Installation
 
