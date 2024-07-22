@@ -1,0 +1,14 @@
+/*
+Theme Name: Avada Accessible Child
+Description: Child theme for Avada theme
+Author: ThemeFusion
+Author URI: https://theme-fusion.com
+Template: Avada
+Version: 1.0.0
+Text Domain:  Avada
+*/
+/* Fix: modal pop-up scroll to top issue on mobile */
+.ua-mobile .modal-open {
+    position: unset;
+  }
+/* END Fix: modal pop-up scroll to top issue on mobile */
