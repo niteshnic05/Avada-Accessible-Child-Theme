@@ -66,6 +66,7 @@ This child theme enhances the accessibility features of the Avada Wordpress them
    - Clone or download this repository.
    - Upload the child theme to your WordPress site via the WordPress admin dashboard or using FTP.
    - Activate the Avada Accessible Child Theme from the Appearance > Themes section.
+   - **Also change the 'CSS Compiling Method' from Appearance > Theme Options > Performance > Dynamic CSS & JS > CSS Compiling Method to Database.**
 
 ## Usage
 
