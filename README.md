@@ -47,6 +47,14 @@ This child theme enhances the accessibility features of the Avada Wordpress them
    - **Description:** Choose whether to display the accessible text for external links as a tooltip. This option is available only when `sr-only` text is selected.
    - **Options:** Yes, No
    - **Default:** No
+  
+### Modal Pop-Up Accessibility
+
+1. Added all missing accessbility attribute to modal element, such as 'role': 'button', 'aria-haspopup':'dialog' to modal link/button and 'aria-modal': 'true' to modal pop-up window.
+2. Open modal pop-up using Space key
+3. Return focus to to the element that invoked the dialog
+4. Fixed: modal pop-up scroll to top issue for mobile devices
+   **Note:** These all above modal pop-up accessbility doesn't require any configuration from Theme option, its auto enable after enable this child theme.
 
 ## Installation
 
